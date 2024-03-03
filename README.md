@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code on github](https://github.com/GrzybowskiPiotr/Interactive-card-details-form)
-- Live Site URL: [Live Site](https://interactive-card-details-form-main-pg.netlify.app/)
+- Live Site URL: [Live Site](https://interactive-card-details-form-pgdev.netlify.app/)
 
 ## My process
 
