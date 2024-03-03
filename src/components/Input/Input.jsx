@@ -54,7 +54,7 @@ export function Input({
 			}
 		}
 
-		if (id === "card number") {
+		if (id === "card_number") {
 			setIputValue(ccFormater(input));
 			updater(ccFormater(input));
 		} else if (id === "MM") {
@@ -90,7 +90,7 @@ export function Input({
 			);
 			setIputValue(cvc);
 			updater(cvc);
-		} else if (id === "cardholder name") {
+		} else if (id === "cardholder_name") {
 			setIputValue(ccnFormater(input));
 			updater(ccnFormater(input));
 		}

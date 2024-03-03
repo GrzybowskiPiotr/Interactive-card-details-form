@@ -74,9 +74,9 @@ export function Form({
 	return (
 		<form className={styels.form} onSubmit={submitHandler}>
 			<Input
-				id={"cardholder name"}
+				id={"cardholder_name"}
 				updater={setHolderName}
-				label={"cardholder name"}
+				label={"cardholder_name"}
 				placeholder={` e.g. Jane Appleseed`}
 				error={cardHolderNameError}
 				errorMsg={
@@ -89,9 +89,9 @@ export function Form({
 				maxLength="30"
 			/>
 			<Input
-				id="card number"
+				id="card_number"
 				updater={setCardNumber}
-				label={"card number"}
+				label={"card_number"}
 				placeholder={" e.g. 1234 5678 9123 0000"}
 				error={cardNumberError}
 				errorMsg={
