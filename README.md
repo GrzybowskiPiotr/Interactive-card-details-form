@@ -51,4 +51,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@GrzybowskiPiotr](https://www.https://www.frontendmentor.io/profile/GrzybowskiPiotr)
+- Frontend Mentor - [@GrzybowskiPiotr](https://www.frontendmentor.io/profile/GrzybowskiPiotr)
